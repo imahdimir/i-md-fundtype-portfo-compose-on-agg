@@ -1,2 +1,1 @@
-pandas~=1.4.4
-githubdata~=8.0
+githubdata~=8.2
